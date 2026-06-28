@@ -1,2 +1,2 @@
-git friles add
+git files add
 git
